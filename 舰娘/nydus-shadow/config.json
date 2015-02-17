@@ -1,0 +1,236 @@
+{
+"configs" : [
+  {
+"server" : "106.186.19.141",
+"server_port" : 23843,
+"password" : "6b82566b651a54a9324da67919479ef4",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 12"}
+,
+  {
+"server" : "106.187.46.29",
+"server_port" : 24011,
+"password" : "6a456eadab9401fae95e8f5a6a4d5ba0",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 42"}
+,
+  {
+"server" : "104.237.159.31",
+"server_port" : 22874,
+"password" : "5903b66f3f8d17922dfecb49374db0b1",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP-GAME] USA - CA 1"}
+,
+  {
+"server" : "106.187.101.71",
+"server_port" : 23190,
+"password" : "c4829968432ac6ffe2ce60686dcbf297",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 87"}
+,
+  {
+"server" : "106.185.27.190",
+"server_port" : 21917,
+"password" : "4dc5c657d127eba8ae7f69666e51c66c",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 133"}
+,
+  {
+"server" : "106.187.41.103",
+"server_port" : 443,
+"password" : "3f82b34fd2dcdcdf57d81161fa078502",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 82"}
+,
+  {
+"server" : "106.186.30.57",
+"server_port" : 24658,
+"password" : "3fec43e572d56adb5e6cde90f6efed87",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] JP - Tokyo 27"}
+,
+  {
+"server" : "106.186.127.91",
+"server_port" : 23240,
+"password" : "a41af1fc61551c6868d0995edb31746b",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] JP - Tokyo 105"}
+,
+  {
+"server" : "106.186.117.135",
+"server_port" : 23539,
+"password" : "c4afb661f8d61dc399a9342fd151c225",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] JP - Tokyo 37"}
+,
+  {
+"server" : "112.126.68.239",
+"server_port" : 20185,
+"password" : "a90ef28d63288c6f93689e17d0c93e03",
+"method" : "rc4-md5",
+"remarks" : "[VIP] CN - Beijing 2"}
+,
+  {
+"server" : "106.186.118.157",
+"server_port" : 23033,
+"password" : "b77ee07479490af47a5a06b27fa0e0c5",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 2"}
+,
+  {
+"server" : "104.237.159.32",
+"server_port" : 23353,
+"password" : "f4dbf6bdd90a7fd075ccfff6555b02ad",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP] USA - CA 8"}
+,
+  {
+"server" : "106.186.24.163",
+"server_port" : 24217,
+"password" : "f7a7d33bc3ab0105334831f994e5ccd8",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 32"}
+,
+  {
+"server" : "106.187.51.196",
+"server_port" : 24906,
+"password" : "e6afa803a76bff4c29ec5f2e57e6ef38",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 92"}
+,
+  {
+"server" : "106.187.35.195",
+"server_port" : 21360,
+"password" : "6278798dbd089dd4e57efac37e7644ea",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] JP - Tokyo 72"}
+,
+  {
+"server" : "106.185.40.253",
+"server_port" : 21498,
+"password" : "c45bd7e5bb57d5a7498d7be58f6a8fb8",
+"method" : "rc4-md5",
+"remarks" : "[VIP-GAME] JP - TYO 3"}
+,
+  {
+"server" : "115.29.166.34",
+"server_port" : 23885,
+"password" : "85ea2c64dcc60c94ce51526b267c21e7",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] Shanghai 3"}
+,
+  {
+"server" : "106.185.33.60",
+"server_port" : 23593,
+"password" : "8af84db9570d63c305dd04dc264c3037",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 57"}
+,
+  {
+"server" : "106.186.18.186",
+"server_port" : 24950,
+"password" : "674670feca7ad162782cab7043271008",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP] JP - Tokyo 52"}
+,
+  {
+"server" : "106.186.114.88",
+"server_port" : 21009,
+"password" : "1ed6fdc6e46070703cd4b392d5b081d0",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 22"}
+,
+  {
+"server" : "106.185.35.52",
+"server_port" : 20677,
+"password" : "063af030e5e0a5eeb36a3abdb537518b",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 47"}
+,
+  {
+"server" : "106.187.49.51",
+"server_port" : 21399,
+"password" : "54d4502fa9afbb46092cebc898b3ca0f",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 67"}
+,
+  {
+"server" : "106.185.29.156",
+"server_port" : 24907,
+"password" : "3da95ef85aa8ab87c32cb8b65f3b9dae",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP] JP - Tokyo 77"}
+,
+  {
+"server" : "106.185.36.104",
+"server_port" : 24825,
+"password" : "71b8ab799fd45f44a4574073c5a98fd2",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] JP - Tokyo 95"}
+,
+  {
+"server" : "115.29.161.199",
+"server_port" : 24028,
+"password" : "6cd7f953b7d3f5bf8d7db7d93097c73c",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP-WEB] Shanghai 1"}
+,
+  {
+"server" : "106.185.36.193",
+"server_port" : 24443,
+"password" : "fd4356abe07f441e07e01f3fdfe270ef",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 62"}
+,
+  {
+"server" : "106.187.45.68",
+"server_port" : 22377,
+"password" : "c6497678b22c800bc93ee5533eb2aecb",
+"method" : "aes-256-cfb",
+"remarks" : "[VIP] JP - Tokyo 100"}
+,
+  {
+"server" : "106.186.30.159",
+"server_port" : 23509,
+"password" : "762e2eec7bf766a3e3aaea92e36174a1",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP] JP - Tokyo 17"}
+,
+  {
+"server" : "106.185.45.97",
+"server_port" : 23488,
+"password" : "3b21a7604f35fab7f76dd1d9908fe45b",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP] JP - Tokyo 111"}
+,
+  {
+"server" : "106.186.112.34",
+"server_port" : 23334,
+"password" : "7f5d9ef6c935a4e222d375fa3736635e",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 120"}
+,
+  {
+"server" : "106.186.113.174",
+"server_port" : 21348,
+"password" : "4ad18f23e6a9b1f296dcdf0ce7ede8be",
+"method" : "rc4-md5",
+"remarks" : "[VIP] JP - Tokyo 126"}
+,
+  {
+"server" : "106.186.28.62",
+"server_port" : 20379,
+"password" : "549ff69ff557cb1a458104d8c8ccf733",
+"method" : "aes-128-cfb",
+"remarks" : "[VIP] JP - Tokyo 7"}
+
+],
+"index" : 20,
+"global" : true,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"username" : "iamwr@163.com",
+"sessionid" : "d0ae0eeb0770b5c4646bfc60a8d460d9",
+"password" : "group2"}

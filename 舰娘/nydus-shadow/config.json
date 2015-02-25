@@ -227,10 +227,10 @@
 ],
 "index" : 20,
 "global" : true,
-"enabled" : true,
+"enabled" : false,
 "shareOverLan" : false,
 "isDefault" : false,
 "localPort" : 1080,
 "username" : "iamwr@163.com",
-"sessionid" : "d0ae0eeb0770b5c4646bfc60a8d460d9",
+"sessionid" : "f86bdf63c39b0ac9a2435d7adca2df98",
 "password" : "group2"}
